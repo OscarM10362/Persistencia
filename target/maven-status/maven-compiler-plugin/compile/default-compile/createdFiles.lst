@@ -1,0 +1,11 @@
+com\umg\persistencia\entidades\HistorialAccion.class
+com\umg\persistencia\entidades\EstadoTarea.class
+com\umg\persistencia\repository\EstadoTareaRepository.class
+com\umg\persistencia\Persistencia.class
+com\umg\persistencia\entidades\Tarea.class
+com\umg\persistencia\entidades\Usuario.class
+com\umg\persistencia\repository\TareaRepository.class
+com\umg\persistencia\repository\HistorialAccionRepository.class
+com\umg\persistencia\entidades\PrioridadTarea.class
+com\umg\persistencia\repository\PrioridadTareaRepository.class
+com\umg\persistencia\repository\UsuarioRepository.class
